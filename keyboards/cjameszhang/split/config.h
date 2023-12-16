@@ -1,4 +1,4 @@
-// Copyright 2023 James Zhang (@James Zhang)
+// Copyright 2023 James Zhang (@cjameszhang)
 // SPDX-License-Identifier: GPL-2.0-or-later
 
 #pragma once
