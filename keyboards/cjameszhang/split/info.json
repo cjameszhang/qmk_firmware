@@ -1,6 +1,6 @@
 {
     "manufacturer": "James Zhang",
-    "keyboard_name": "cjameszhang/home1",
+    "keyboard_name": "cjameszhang/split",
     "maintainer": "James Zhang",
     "bootloader": "atmel-dfu",
     "diode_direction": "COL2ROW",
